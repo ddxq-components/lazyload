@@ -1,0 +1,19 @@
+{
+    "name": "lazyload",
+    "version": "1.9.7",
+    "homepage": "http://www.appelsiini.net/projects/lazyload",
+    "authors": [
+        "Mika Tuupola <tuupola@appelsiini.net>"
+    ],
+    "description": "jQuery plugin for lazy loading images",
+    "main": [
+        "jquery.lazyload.js",
+        "jquery.scrollstop.js"
+    ],
+    "license": "MIT",
+    "scripts": [
+        "scrollstop.js",
+        "daparser.js"
+    ],
+    "main": "lazyload.js"
+}
